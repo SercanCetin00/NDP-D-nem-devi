@@ -1,0 +1,13 @@
+C:\Users\serca\source\repos\Hal 85\Hal 85\bin\Debug\Hal 85.exe.config
+C:\Users\serca\source\repos\Hal 85\Hal 85\bin\Debug\Hal 85.exe
+C:\Users\serca\source\repos\Hal 85\Hal 85\bin\Debug\Hal 85.pdb
+C:\Users\serca\source\repos\Hal 85\Hal 85\obj\Debug\Hal 85.csprojAssemblyReference.cache
+C:\Users\serca\source\repos\Hal 85\Hal 85\obj\Debug\Hal_85.Giriş.resources
+C:\Users\serca\source\repos\Hal 85\Hal 85\obj\Debug\Hal_85.Properties.Resources.resources
+C:\Users\serca\source\repos\Hal 85\Hal 85\obj\Debug\Hal 85.csproj.GenerateResource.cache
+C:\Users\serca\source\repos\Hal 85\Hal 85\obj\Debug\Hal 85.exe
+C:\Users\serca\source\repos\Hal 85\Hal 85\obj\Debug\Hal 85.pdb
+C:\Users\serca\source\repos\Hal 85\Hal 85\obj\Debug\Hal_85.KullanıcıArayüzü.resources
+C:\Users\serca\source\repos\Hal 85\Hal 85\obj\Debug\Hal_85.Mal_Kayıt.resources
+C:\Users\serca\source\repos\Hal 85\Hal 85\obj\Debug\Hal_85.Çalışan.resources
+C:\Users\serca\source\repos\Hal 85\Hal 85\obj\Debug\Hal_85.defter11.resources
